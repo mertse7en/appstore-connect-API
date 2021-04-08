@@ -24,9 +24,9 @@ If you have more than one API key, use the key ID of the same private key that y
 
 2. issuer id
 
-1. To get your issuer ID, log in to App Store Connect and:
-2. Select Users and Access, then Select the API Keys tab.
-3. The issuer ID appears near the top of the page. To copy the issuer ID, click Copy next to the ID.
+To get your issuer ID, log in to App Store Connect and:
+1. Select Users and Access, then Select the API Keys tab.
+2. The issuer ID appears near the top of the page. To copy the issuer ID, click Copy next to the ID.
 
 3. private key
 AuthKey.p8 file 
