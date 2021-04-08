@@ -1,5 +1,5 @@
 # Appstore Connect APİ
-Simple python JWT implementation of app store connect api, to communicate with the App Store Connect API need to authorize with JWT.  
+Simple python JWT implementation of app store connect api, to communicate with the App Store Connect API must be authorized with JWT.  
 
 ## Overview
 JSON Web Token (JWT) is an open standard (RFC 7519) that defines a way to securely transmit information. The App Store Connect API requires JWTs to authorize each API request. You create the token, signing it with the private key you downloaded from App Store Connect.
